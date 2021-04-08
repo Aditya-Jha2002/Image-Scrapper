@@ -37,3 +37,5 @@ and uncomment the following part
     #)for i in tqdm(images)
 #)
 ```
+
+These steps will help you to parrelize the process of resizing image and help you to resize your images faster
