@@ -14,9 +14,9 @@
 2. **Beautiful Soup** - Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
 3. **Pillow** - The core image library is designed for fast access to data stored in a few basic pixel formats. It should provide a solid foundation for a general image processing tool.
 
-![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Requests-logo.png)
-![](https://lh3.googleusercontent.com/o9HtAcCnpfW_o5b1lkhvrJ0lzZBJ6Lm8TwxYue4Z3K5OdekeptiGVAUEPcBC_1ra7cFqAV0QOFByNl3ub_1BJbNe3A=w640-h400-e365-rj-sc0x00ffffff)
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Requests-logo.png)! 
 ![](https://raw.githubusercontent.com/python-pillow/pillow-logo/master/pillow-logo-248x250.png)
+![](https://lh3.googleusercontent.com/o9HtAcCnpfW_o5b1lkhvrJ0lzZBJ6Lm8TwxYue4Z3K5OdekeptiGVAUEPcBC_1ra7cFqAV0QOFByNl3ub_1BJbNe3A=w640-h400-e365-rj-sc0x00ffffff)
 
 # Hack
 
